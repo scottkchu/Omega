@@ -1,21 +1,6 @@
----
-title: Discord Golang bot
-description: A Discord bot written in Golang
-tags:
-- discordgo
-- golang
----
+## Omega
 
-# DiscordGo Example
-
-This example starts a Discord bot using [discordgo](https://github.com/bwmarrin/discordgo) and [Golang](https://golang.org/).
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TZ2dBZ)
-
-## ✨ Features
-
-- DiscordGo
-- Golang
+Omega is a discord chatbot powered bot the Cohere API!
 
 ## 💁‍♀️ How to use
 
