@@ -1,6 +1,6 @@
-## Omega
+## 🤖 OmegaBot
 
-Omega is a discord chatbot powered bot the Cohere API!
+Omega is a discord chatbot powered by the Cohere API!
 
 ## 💁‍♀️ How to use
 
