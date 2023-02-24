@@ -1,4 +1,4 @@
-module github.com/railwayapp/starters/examples/discordgo
+module omega
 
 go 1.16
 
